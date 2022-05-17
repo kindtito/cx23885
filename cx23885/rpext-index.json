@@ -1,7 +1,7 @@
 
 {
   "id": "titorus.cx23885",
-  "url": "https://raw.githubusercontent.com/kindtito/cx23885/master/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/kindtito/cx23885/master/cx23885/rpext-index.json",
   "info": {
     "name": "cx23885",
     "description": "cx23885 driver",
