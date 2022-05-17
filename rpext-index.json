@@ -1,0 +1,18 @@
+
+{
+  "id": "titorus.cx23885",
+  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/rpext-index.json",
+  "info": {
+    "name": "cx23885",
+    "description": "cx23885 driver",
+    "author_url": "https://titorus.com",
+    "packer_url": "https://titorus.com",
+    "help_url": "<todo>"
+  },
+  "releases": {
+	"ds918p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/releases/ds918p_41890.json",
+    "ds918p_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/releases/ds918p_41890.json",
+    
+  }
+}
+
