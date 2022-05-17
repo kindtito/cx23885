@@ -5,11 +5,12 @@
     {
       "name": "cx23885.tgz",
       "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/releases/cx23885.tgz",
+	    https://github.com/kindtito/cx23885/raw/master/releases/cx23885.tgz
       "sha256": "1479d8f671ef88e484bc90c8073c744f9ee38afd84fa180005ab97fbab85e56e",
       "packed": true
     },
     {
-      "name": "check-cx23885.sh",
+      "name": "check-cx23885.sh"
       "url": "https://raw.githubusercontent.com/kindtito/cx23885/master/src/check-xc23885.sh",
       "sha256": "49dfa01f23ee95644e69e6977152ff252b5c1f8e8d73bd58694d478043a1e8ec",
       "packed": false
