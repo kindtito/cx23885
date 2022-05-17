@@ -4,7 +4,7 @@
   "files": [
     {
       "name": "cx23885-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/kindtito/cx23885/master/releases/cx23885-4.4.180plus.tgz",
+      "url": "https://raw.githubusercontent.com/kindtito/cx23885/master/releases/cx23885/cx23885-4.4.180plus.tgz",
       "sha256": "1479d8f671ef88e484bc90c8073c744f9ee38afd84fa180005ab97fbab85e56e",
       "packed": true
     },
