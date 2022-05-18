@@ -11,7 +11,7 @@
     {
       "name": "check-cx23885.sh",
       "url": "https://raw.githubusercontent.com/kindtito/cx23885/master/cx23885/src/check-xc23885.sh",
-      "sha256": "49dfa01f23ee95644e69e6977152ff252b5c1f8e8d73bd58694d478043a1e8ec",
+      "sha256": "c540b178f495dba7b45d80c7127ea8016b4bd37b284451309e0cccb4fc92f693",
       "packed": false
     }
 
