@@ -33,7 +33,7 @@
   },
 
   "scripts": {
-    "check_kmod": "check-cx23885.sh"
+    "on_boot": "check-cx23885.sh"
   }
 }
 
