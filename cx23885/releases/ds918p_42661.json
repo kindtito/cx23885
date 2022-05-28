@@ -3,15 +3,15 @@
 
   "files": [
     {
-      "name": "cx23885.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/releases/cx23885.tgz",
-      "sha256": "429e26ea4eb38679b01a2191b7bb30708359b5981ce8e8bf24aefb4ad83c6f0c",
+      "name": "cx23885-4.4.180plus.tgz",
+      "url": "https://raw.githubusercontent.com/kindtito/cx23885/master/cx23885/releases/cx23885-4.4.180plus.tgz",
+      "sha256": "6649140d21bc0746d353c0f51ff44fbdfd98339b790fc5d08f021b58d13462d3",
       "packed": true
     },
     {
       "name": "check-cx23885.sh",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/src/check-cx23885.sh",
-      "sha256": "49dfa01f23ee95644e69e6977152ff252b5c1f8e8d73bd58694d478043a1e8ec",
+      "url": "https://raw.githubusercontent.com/kindtito/cx23885/master/cx23885/src/check-xc23885.sh",
+      "sha256": "c540b178f495dba7b45d80c7127ea8016b4bd37b284451309e0cccb4fc92f693",
       "packed": false
     }
 
@@ -34,6 +34,7 @@
   },
 
   "scripts": {
-    "check_kmod": "check-cx23885.sh"
+    "on_boot": "check-cx23885.sh"
   }
 }
+
