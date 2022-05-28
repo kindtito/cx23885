@@ -18,17 +18,18 @@
   ],
 
   "kmods": {
-    "videobuf2-v4l2.ko": "",
-    "videodev.ko": "",
+    "videobuf-core.ko": "",
+    "videobuf-dma-sg.ko": "",
 	"rc-core.ko": "",
-	"altera-ci.ko": "",
-	"v4l2-common.ko": "",
-	"tveeprom.ko": "",
-	"cx2341x.ko": "",
-	"videobuf2-dma-sg.ko": "",
-	"videobuf2-dvb.ko": "",
 	"dvb-core.ko": "",
-	"videobuf2-core.ko": "",
+	"altera-ci.ko": "",
+	"videodev.ko": "",
+	"v4l2-common.ko": "",
+	"cx2341x.ko": "",
+	"tveprom.ko": "",
+	"videobuf-dvb.ko": "",
+	"tda18271.ko": "",
+	 "m88ds3103.ko": "",
 	"cx23885.ko": ""
   },
 
