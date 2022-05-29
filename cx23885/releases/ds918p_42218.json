@@ -18,8 +18,9 @@
   ],
 
   "kmods": {
-    "videobuf-core.ko": "",
-    "videobuf-dma-sg.ko": "",
+    "videobuf2-core.ko": "",
+    "videobuf2-dma-sg.ko": "",
+ "videobuf2-v4l2.ko": "",
 	"rc-core.ko": "",
 	"dvb-core.ko": "",
 	"altera-ci.ko": "",
@@ -27,7 +28,7 @@
 	"v4l2-common.ko": "",
 	"cx2341x.ko": "",
 	"tveprom.ko": "",
-	"videobuf-dvb.ko": "",
+	"videobuf2-dvb.ko": "",
 	"tda18271.ko": "",
 	 "m88ds3103.ko": "",
 	"cx23885.ko": ""
